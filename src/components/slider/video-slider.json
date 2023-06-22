@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_slider_video_sliders",
+  "info": {
+    "displayName": "VideoSlider"
+  },
+  "options": {},
+  "attributes": {
+    "Video": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "MainTitle": {
+      "type": "string"
+    },
+    "SubTitle": {
+      "type": "text"
+    }
+  }
+}
